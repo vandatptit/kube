@@ -4,13 +4,13 @@ table: users
 
 columns:
 
-user_id
+- user_id
 
-name
+- name
 
-email
+- email
 
-password
+- password
 
 
 
