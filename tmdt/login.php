@@ -15,7 +15,7 @@
 <body>
 	<div class="container-fluid" style="background-color:red">
 	<div class="container">
-	<h2 class="page-header">Dang nhap</h2>
+	<h2 class="page-header">Welcome t<?=$_SERVER['HTTP_HOST']?></h2>
 	<?php
 	
 	if($_POST){
